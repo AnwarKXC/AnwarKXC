@@ -5,4 +5,4 @@
 📡 My Personal Website https://anwark.vercel.app/
 
 Languages and Tools:
- express git restAPI graphQL javascript  mongoDB  nodejs SQL  postman python react vue redux sass tailwind typescript redis html css 
+ express  git  restAPI  graphQL  javascript  mongoDB  nodejs  SQL  postman  react  vue  redux  sass  tailwind  typescript  redis  html  css 
